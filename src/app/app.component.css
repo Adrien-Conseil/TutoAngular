@@ -1,0 +1,51 @@
+ul {
+    margin:0;
+    }
+
+    li {
+        display: inline;
+    list-style: none;
+        }
+
+ ul li a {
+    display:inline-block;
+    margin: 15px;
+    color : white;
+            } 
+
+#main{
+    height: 300px;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+}
+#Baniere{
+    height: 150px;
+    padding-top: 100px;
+    width: 100%;
+    color : white;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#liste{
+    height: 20px;
+    width: 100%;
+    text-align: center;
+}
+nav
+{
+    top: 0;
+    width: 100%;
+    background : #000;
+    margin: 0; padding: 0;
+    color: black;
+    text-align: center;
+}
+.image{ /* //C:\Users\aconseil\Desktop\Angular*/
+    height:40em; background-size:cover; width:auto;
+    background-image:url('backgroundImg.png');
+    background-position:center
+  }
